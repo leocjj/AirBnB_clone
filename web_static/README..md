@@ -1,6 +1,6 @@
-# Project 0x08.
+# Project 0x01.
 
-Networking basics #1
+AirBnB clone - Web static
 
 # Learning Objectives
 
